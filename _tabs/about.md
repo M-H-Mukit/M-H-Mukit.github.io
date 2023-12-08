@@ -32,7 +32,7 @@ order: 1
 - Collaborated with blind or visually impaired individuals to design and develop accessible websites and data-visualizations.
 - Experience in both front-end and back-end development.
 
-## Documents
+<!-- ## Documents
 - [Download Resume](resume_link_here)
-- [Download Experience Certificate from Enosis Solutions](certificate_link_here)
+- [Download Experience Certificate from Enosis Solutions](certificate_link_here) -->
 
