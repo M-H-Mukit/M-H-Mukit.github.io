@@ -1,4 +1,4 @@
----
+<!-- ---
 # the default layout is 'page'
 layout: page
 toc: true
@@ -35,4 +35,3 @@ order: 1
 <!-- ## Documents
 - [Download Resume](resume_link_here)
 - [Download Experience Certificate from Enosis Solutions](certificate_link_here) -->
-
