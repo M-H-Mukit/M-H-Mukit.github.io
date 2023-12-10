@@ -7,8 +7,8 @@ icon: fas fa-cogs
 order: 4
 ---
 
-- **Language:** C#, JavaScript, Python, C/C++.
-- **Backend:** .NET Framework, .Net Core, Django, Microservices.
+- **Language:** C#, Java, JavaScript, Python, C/C++.
+- **Backend:** Asp.NET, .Net Core, Spring, Django, Microservices.
 - **Frontend:** React, Vue.js, jQuery, CSS3, Razor, HTML5.
 - **DevOps:** Azure, AWS EC2 & S3, Docker, NGINX, Apache, IIS, TeamCity, Bitbucket, Ansible.
 - **Database:** MS SQL, MySQL, PostgreSQL, MongoDB.

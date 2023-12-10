@@ -1,8 +1,7 @@
 <!-- ---
 # the default layout is 'page'
-layout: page
+layout: about
 toc: true
-comments: false
 icon: fas fa-info-circle
 order: 1
 ---

@@ -5,7 +5,7 @@ order: 3
 ---
 
 ## Islamic University of Technology
-- **Degree:** Bachelor of Science - B.Sc in Computer Science
+- **Degree:** Bachelor of Science (B.Sc.) in Computer Science
 - **Duration:** 2015 - 2018
 
 ## Cumilla Cadet College
@@ -14,4 +14,4 @@ order: 3
 
 ## Cumilla Cadet College
 - **Secondary Education:** Science
-- **Duration:** 2008 - 2012
+- **Duration:** 2010 - 2012
